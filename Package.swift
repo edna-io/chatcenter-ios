@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "Threads",
             url: "https://github.com/edna-io/chatcenter-ios/releases/download/4.28.0/threads-4.28.0.zip",
-            checksum: "128e78bd95bd1703fe6d94d621c7c056aabae5dc3ed9799ddcd517f3011aeaad"
+            checksum: "7f4cd80cb485d2a4a60799a2e19a08e395cf06cbd8b656b127b0256e0a63a5b1"
         ),
     ]
 )
