@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Threads",
-            url: "https://github.com/edna-io/chatcenter-ios/releases/download/4.30.0/threads-4.30.0.zip",
-            checksum: "a65f071e38070698110933c4688f608feb02e84e8ebc230cf438a6f4bc86e4e2"
+            url: "https://github.com/edna-io/chatcenter-ios/releases/download/4.31.0/threads-4.31.0.zip",
+            checksum: "bf83e589b0ab631950466ac575a57fc37fccf3d92981a5d4196baf72d78b39e6"
         ),
     ]
 )
