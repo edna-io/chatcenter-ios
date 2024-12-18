@@ -1,10 +1,11 @@
 # edna ChatCenter SDK for iOS
+
 ChatCenter SDK
 
-https://edna.ru/
+https://edna.io/
 
-По вопросам продаж/Sales:<br>
-sales@edna.ru
+Sales:<br>
+sales@edna.io
 
-Техническая поддержка/Tech support:<br>
-support@edna.ru
+Tech support:<br>
+support@edna.io
